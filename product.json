@@ -1,0 +1,69 @@
+{
+"companyName" : "WWW Inc. - World Weird Warehouse",
+"headOffice" : "North Pole",
+"established" : 2019, 
+"active" : true,
+"products" : [
+  {
+    "name" : "A desktop refrigerator", 
+    "price" : 38.00,
+    "lat" : 44.131234,
+    "lng" : -79.202935,
+    "description" : "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.", 
+    "features" : [
+      "Affordable", 
+      "Portable"
+    ],
+    "image": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/510g-cwJNBL.jpg?w=1200&ssl=1"
+  },
+  
+  {
+    "name" : "1,500 live ladybugs", 
+    "price" : 3.05,
+    "lat" : 33.188441,
+    "lng" : -109.986628,
+    "description" : "Insects",
+    "features" : [
+      "crawling", "flying"
+    ],
+    "image" : "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/live-ladybugs.jpg?w=1024&ssl=1"
+  },
+  
+  {
+    "name" : "A home mushroom farm", 
+    "price" : 22.85,
+    "lat" : -10.341579,
+    "lng" : -39.322563,
+    "description" : "Now you can grow your own fungus right at home—and not in between your toes!",
+    "features" : [
+      "Growing ", "Eatible", "Eco-friendly"
+    ],
+    "image" : "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/81WCBll2QvL._SL1500_.jpg?w=745&ssl=1"
+  },
+
+  {
+    "name" : "A cat butt tissue holder", 
+    "price" : 34.94,
+    "lat" : 24.821972,
+    "lng" : 29.671577,
+    "description" : "Unique tissue holder",
+    "features" : [
+      "inquisitive eyes", "mango", "honey"
+    ],
+    "image" : "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/71QugMJmYJL._SL1500_.jpg?w=1200&ssl=1"
+  },
+  
+  {
+    "name" : "A wall decal of senior citizens in a golf cart",
+    "price" : 21.96,
+    "lat" : 27.054561,
+    "lng" : 111.772408,
+    "description" : "Some people decorate their walls with wallpaper, and others with art. And you can make your own home stand out by decorating with this decal of senior citizens riding in a golf cart.",
+    "features" : [
+      "strawberries", 
+      "goats milk"
+    ],
+    "image" : "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/seniors-wall-decal.jpg?w=1024&ssl=1"
+    }
+  ]
+}
